@@ -1,4 +1,4 @@
-# cdr_project
+# CDR_project
 Telecom CDR Data Analytics Project
 
 
